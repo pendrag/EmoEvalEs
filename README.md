@@ -1,6 +1,6 @@
 # EmoEvalEs
 
-Files are encrypted and password-protected. Participants of the [EmoEvalEs](https://competitions.codalab.org/competitions/28682) task at IberLEF will be notified with the password to gain access to data.
+Files are encrypted and password-protected. Participants of the [EmoEvalEs](https://competitions.codalab.org/competitions/28682) task at IberLEF will be notified through Codalab competition's forum with the password to gain access to data.
 
 Files:
 
